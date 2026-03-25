@@ -162,7 +162,7 @@
             <div class="flap"></div>
             <div class="card">
                 <h2>A Special Message</h2>
-                <p>Hello there!<br>Sending some love and warmth your way today.<br><br>✨❤️✨</p>
+                <p>Hello there!<br>I love that you know your worth. It saves me the time of having to convince you how impressive you are<br><br>✨❤️✨</p>
             </div>
         </div>
         <div class="hint">Tap to Open</div>
